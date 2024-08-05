@@ -9,9 +9,9 @@ Player vs. Computer: Challenge the computer to intense rounds of rock, paper, sc
 Interactive UI: A user-friendly interface that makes gameplay smooth and enjoyable.
 Score Tracking: Keep track of wins, losses, and ties.
 Randomized Computer Moves: The computer’s choices are randomized for an unpredictable challenge.
-Installation
-Clone this repository:
-git clone https://github.com/your-username/rock-paper-scissors.git
+### Installation
+> Clone this repository:
+https://github.com/Anilnayak126/RockPaperScissors-game-.git
 
 Open index.html in your browser.
 ### How to Play
@@ -21,6 +21,6 @@ Open index.html in your browser.
 * Keep playing to improve your strategy.
 
 ### Contributing
-**Contributions are more than welcome! If you find any bugs, want to add new features, or improve the game, feel free to submit a pull request.**
+Contributions are more than welcome! If you find any bugs, want to add new features, or improve the game, feel free to submit a pull request.
 
 
