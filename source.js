@@ -8,6 +8,8 @@ const computerscoredisplay = document.getElementById('ComputerscoreDisplay');
 let playerscore = 0;
 let computerscore = 0;
 
+//--------------------------------------------- Logic
+
 function Playgame(playerChoice) {
     const computerChoice = choices[Math.floor(Math.random() * 3)];
     console.log(computerChoice);
@@ -29,6 +31,7 @@ function Playgame(playerChoice) {
         }
 
     }
+    
     playerdisplay.textContent = `PLAYER: ${playerChoice}`;
     computerdisplay.textContent = `COMPUTER: ${computerChoice}`;
     resultdisplay.textContent = result;
